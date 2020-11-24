@@ -18,13 +18,11 @@
    54  git status
    55  git status
    56  git push
-   57  Otelo2001
    58  git push
    59  git push
    60  git push
    61  git push origin master
    62  git push
-   63  Otelo2001
    64  git push
    65  git pull
    66  git branch rama 1 rama 2
