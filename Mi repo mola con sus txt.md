@@ -1,4 +1,4 @@
-# Simulacro-examen
+# S examen
    38  git clone https://github.com/jaimitxu/Simulacro-examen.git
    39  cd C:\Users\Alumno\Simulacro-examen
    40  cd Scd Simulacro-examen/
